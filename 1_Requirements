@@ -1,0 +1,7 @@
+# CALCULATOR APPLICATION 
+# INTRODUCTION 
+A fully featured scientific calculator with proper operator precedence is implemented,including trig functions and logarithms , factorials, 12 levels of parantheses , logs to base 2 bitwise logical operators, hex, octal , binary and ASCII display 
+# SWAT ANALYSIS 
+# Advantages 
+Calculator can solve complicated problems quickly and in efficient manner 
+Calculators gives more accurate results than counting manually 
